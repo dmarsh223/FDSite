@@ -16,6 +16,17 @@ html {
     line-height: 1.4;
 }
 
+body {
+    background-color: #cccccc;
+}
+
+#station-list {
+    list-style-type: none;
+}
+
+#list-div{
+    text-align: center;
+}
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
@@ -288,4 +299,6 @@ textarea {
     h3 {
         page-break-after: avoid;
     }
+
+
 }
